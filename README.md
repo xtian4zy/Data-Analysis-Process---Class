@@ -9,7 +9,7 @@ The data analysis process include the following steps:
 - Determine objective (by asking questions)
 - Collect data
 - Process data
-- -Analyze data
+- Analyze data
 - Interpret and share results
 
 There is an accompanying Lab for this class. Do yourself a favour to check it out also.
