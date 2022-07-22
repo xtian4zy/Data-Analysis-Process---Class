@@ -4,4 +4,12 @@
 
 Are you a data scientist or analyst seeking deep and clear explanation on the **Data Analysis Process**? Look no more as this class will clarify the entire process for you with examples and practical guides.
 
+The data analysis process include the following steps:
+
+- Determine objective (by asking questions)
+- Collect data
+- Process data
+- -Analyze data
+- Interpret and share results
+
 There is an accompanying Lab for this class. Do yourself a favour to check it out also.
